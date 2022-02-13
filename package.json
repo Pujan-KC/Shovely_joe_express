@@ -1,0 +1,14 @@
+{
+  "name": "shovely_joe_express",
+  "version": "1.0.0",
+  "description": "Shovely_Joe will Dig Good Stuff From Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pujan Katuwal",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.3.1"
+  }
+}
